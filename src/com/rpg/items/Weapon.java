@@ -1,6 +1,6 @@
 package com.rpg.items;
 
-public class Weapon extends Item{
+public class Weapon extends Item {
 
     private double dmg;
     private double manaUsage;
